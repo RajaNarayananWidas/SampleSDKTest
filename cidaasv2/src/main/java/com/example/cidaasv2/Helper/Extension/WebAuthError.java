@@ -5,7 +5,7 @@ import android.content.Context;
 import com.example.cidaasv2.Helper.Enums.HttpStatusCode;
 import com.example.cidaasv2.Helper.Enums.WebAuthErrorCode;
 import com.example.cidaasv2.Interface.IOAuthExcepiton;
-import com.example.cidaasv2.R;
+import com.example.mylibrary.R;
 
 import timber.log.Timber;
 
